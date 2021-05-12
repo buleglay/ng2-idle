@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [11.1.0](https://github.com/moribvndvs/ng2-idle/compare/v10.0.0...v11.1.0) (2021-05-12)
+
+
+### Features
+
+* migrate to angular 11 ([2406bfb](https://github.com/moribvndvs/ng2-idle/commit/2406bfb604de882976224caa5936ce3d017323c7))
+
+
+
+
+
 # [10.0.0](https://github.com/moribvndvs/ng2-idle/compare/v9.0.0-beta.1...v10.0.0) (2020-09-10)
 
 
